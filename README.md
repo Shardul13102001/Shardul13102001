@@ -1,14 +1,12 @@
 <!-- ⚡ Neon Animated GitHub Profile README for Shardul Badare -->
 
+<p align="center">
+  <img src=https://github.com/Shardul13102001/Shardul13102001/blob/main/1.png width="800" alt="Shardul Logo"/>
+</p>
+
 <!-- Typing Animation Intro -->
-<p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shardul+Badare" alt="Intro Line 1" />
-</p>
-<p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=QA+Engineer+%7C+Automation+Lover+%7C+Framework+Builder" alt="Intro Line 2" />
-</p>
-<p align="center" style="margin-top: -20px; margin-bottom: -20px;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Let's+Automate+Everything!" alt="Intro Line 3" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Shardul+Badare;QA+Engineer+%7C+Automation+Lover+%7C+Framework+Builder;Let's+Automate+Everything!" alt="Shardul Typing Banner" />
 </p>
 
 
