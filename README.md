@@ -91,7 +91,6 @@
 ---
 
 <!-- Animated Footer -->
-  <summary><b>✨ Cool Animated SVG Footer</b></summary>
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=wave&color=00ffff&height=120&section=footer&text=Automation%20Rocks!&fontColor=ff0000&fontSize=36&animation=twinkling" />
   </p>
