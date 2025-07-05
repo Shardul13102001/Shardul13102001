@@ -80,8 +80,11 @@
 </p>
 
 <p align="center" style="margin-bottom:-10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shardul13102001&show_icons=true&theme=radical&bg_color=0d1021&title_color=39FF14&icon_color=00FFFF&text_color=fff&border_color=39FF14&hide_border=false&custom_title=🛸%20Shardul's%20Stats%20🛸" height="190" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shardul13102001&theme=matrix&background=0d1021&ring=00FFFF&fire=39FF14&currStreakLabel=00FFFF&sideNums=39FF14&sideLabels=00FFFF&date_format=j%20M%5B%20Y%5D" height="190" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shardul13102001&show_icons=true&theme=radical&bg_color=0d1021&title_color=39FF14&icon_color=00FFFF&text_color=ffffff&border_color=39FF14&hide_border=false&custom_title=🛸%20Shardul's%20Stats%20🛸" height="190" />
+
+  <!-- GitHub Streak Card with Green Inside Text -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shardul13102001&theme=matrix&background=0d1021&ring=00FFFF&fire=39FF14&currStreakLabel=00FFFF&currStreakNum=39FF14&sideNums=39FF14&sideLabels=00FFFF&dates=39FF14&date_format=j%20M%5B%20Y%5D" height="190" />
 </p>
 
 <p align="center" style="margin-top:-5px;">
