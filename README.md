@@ -79,13 +79,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1200&color=FFFF33&background=23272f00&center=true&vCenter=true&width=850&lines=GitHub+Stats" alt="GitHub Stats Heading" />
 </p>
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-bottom:-10px;">
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shardul13102001&show_icons=true&theme=radical&bg_color=0d1021&title_color=39FF14&icon_color=00FFFF&text_color=ffffff&border_color=39FF14&hide_border=false&custom_title=🛸%20Shardul's%20Stats%20🛸" height="190" />
-
-  <!-- GitHub Streak Card with Green Inside Text -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shardul13102001&theme=matrix&background=0d1021&ring=00FFFF&fire=39FF14&currStreakLabel=00FFFF&currStreakNum=39FF14&sideNums=39FF14&sideLabels=00FFFF&dates=39FF14&date_format=j%20M%5B%20Y%5D" height="190" />
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Shardul13102001&show_icons=true&theme=radical&bg_color=0d1021&title_color=39FF14&icon_color=00FFFF&text_color=ffffff&border_color=39FF14&hide_border=false&custom_title=🛸%20Shardul's%20Stats%20🛸" height="190" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shardul13102001&theme=matrix&background=0d1021&ring=00FFFF&fire=39FF14&currStreakLabel=00FFFF&currStreakNum=39FF14&sideNums=39FF14&sideLabels=00FFFF&dates=39FF14&date_format=j%20M%5B%20Y%5D" height="190" />
+    </td>
+  </tr>
+</table>
 
 <p align="center" style="margin-top:-5px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shardul13102001&bg_color=0d1021&color=00ffff&line=39FF14&point=00FFFF&area=true&hide_border=false&radius=12&custom_title=💫%20Activity%20Graph%20💫" />
