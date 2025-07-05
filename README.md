@@ -90,7 +90,7 @@
 
 
 
-<!-- Connect Typing -->
+<!-- Connect Typing 
 <p align="center" style="margin-top: -30px; margin-bottom: -10px;">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1200&color=FFFF33&background=23272f00&center=true&vCenter=true&width=850&lines=Let's+Connect" alt="Connect Heading" />
 </p>
@@ -106,12 +106,16 @@
     <img src="https://skillicons.dev/icons?i=github" height="32" />
   </a>
 </p>
-
+-->
 
 
 
 <!-- Animated Footer -->
-  <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=00ffff&height=120&section=footer&text=Automation%20Rocks!&fontColor=ff0000&fontSize=36&animation=twinkling" />
-  </p>
+<p align="center">
+  📫 Connect with me:<br>
+  <a href="mailto:shardul.badare@gmail.com">Email</a> |
+  <a href="https://www.linkedin.com/in/shardulbadare/">LinkedIn</a> |
+  <a href="https://twitter.com/YOUR_HANDLE">X (Twitter)</a> |
+  <a href="https://github.com/ShardulBadare">GitHub</a>
+</p>
 
