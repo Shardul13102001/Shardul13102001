@@ -1,7 +1,7 @@
 <!-- ⚡ Neon Animated GitHub Profile README for Shardul Badare -->
 
 <p align="center">
-  <img src=https://github.com/Shardul13102001/Shardul13102001/blob/main/1.png width="800" alt="Shardul Logo"/>
+  <img src=https://github.com/Shardul13102001/Shardul13102001/blob/main/2.png width="800" alt="Shardul Logo"/>
 </p>
 
 <!-- Typing Animation Intro -->
